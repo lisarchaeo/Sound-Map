@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fine-creek-powhatan-va",
+    "title": "Fine Creek, Powhatan, VA",
+    "lat": 37.5877,
+    "lng": -77.8447,
+    "audio": "audio/Fine_Creek__Powhatan__VA.m4a",
+    "date": "2022-11-01",
+    "note": "Replace this file with the one you export from the placement tool.",
+    "coordinateSource": "geocoded"
+  }
+]

@@ -1,0 +1,107 @@
+:root {
+  --ink: #1c1c1a;
+  --soft: #6a6a64;
+  --rule: #d8d6ce;
+  --paper: #fbfaf7;
+  --pin: #c8452e;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+/* ---------------------------------------------------------------- the map */
+#map { position: absolute; inset: 0; }
+
+#about-link {
+  position: absolute;
+  left: 14px; bottom: 14px;
+  z-index: 500;
+  background: rgba(255,255,255,.9);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 5px 11px;
+  font-size: 14px;
+  color: var(--ink);
+  text-decoration: none;
+}
+#about-link:hover { background: #fff; }
+
+/* ---------------------------------------------------------------- the pins */
+.pin i {
+  display: block;
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  background: var(--pin);
+  opacity: .82;
+  border: 2px solid rgba(255,255,255,.92);
+  box-shadow: 0 0 0 1px rgba(0,0,0,.22);
+}
+.pin:hover i, .pin:focus i { opacity: 1; }
+.leaflet-marker-icon:focus { outline: 2px solid var(--ink); outline-offset: 3px; }
+
+/* ------------------------------------------------------------- the bubble */
+.leaflet-popup-content { margin: 14px 16px; font: inherit; }
+.leaflet-popup-content h2 { margin: 0 0 10px; font-size: 16px; font-weight: 600; line-height: 1.35; }
+.leaflet-popup-content audio { display: block; width: 100%; }
+.leaflet-popup-content .meta {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: var(--soft);
+}
+.leaflet-tooltip { font: inherit; font-size: 13px; }
+
+/* ----------------------------------------- the same bubble, on a phone --- */
+#sheet {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 1200;
+  background: #fff;
+  border-top: 1px solid var(--rule);
+  border-radius: 12px 12px 0 0;
+  box-shadow: 0 -6px 26px rgba(0,0,0,.16);
+  padding: 18px 18px calc(18px + env(safe-area-inset-bottom));
+  transform: translateY(100%);
+  transition: transform .22s ease;
+}
+#sheet.open { transform: translateY(0); }
+#sheet h2 { margin: 0 8px 12px 0; font-size: 17px; font-weight: 600; line-height: 1.35; }
+#sheet audio { display: block; width: 100%; }
+#sheet .meta { margin: 10px 0 0; font-size: 13px; color: var(--soft); }
+#sheet-close {
+  position: absolute; top: 10px; right: 12px;
+  background: none; border: 0; cursor: pointer;
+  font-size: 26px; line-height: 1; color: var(--soft); padding: 4px 8px;
+}
+
+#error {
+  position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%);
+  z-index: 1300; max-width: 28em; margin: 0;
+  background: #fff; border: 1px solid var(--rule); border-radius: 6px;
+  padding: 18px 20px; font-size: 15px;
+}
+
+/* ------------------------------------------------- screen readers only --- */
+#sr-region {
+  position: absolute; width: 1px; height: 1px;
+  padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+/* ------------------------------------------------------- the about page -- */
+body.page { height: auto; background: var(--paper); }
+body.page main {
+  max-width: 34em;
+  margin: 0 auto;
+  padding: 64px 24px 80px;
+}
+body.page h1 { font-size: 24px; font-weight: 600; margin: 0 0 24px; }
+body.page p { margin: 0 0 18px; }
+body.page .credit { color: var(--soft); font-size: 15px; margin-top: 36px; }
+body.page a { color: var(--ink); }

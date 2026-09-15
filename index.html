@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sound Map</title>
+<meta name="description" content="Field recordings from around the world, placed where they were recorded.">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="map"></div>
+
+<a id="about-link" href="about.html">About</a>
+
+<div id="sheet" hidden>
+  <button id="sheet-close" aria-label="Close">&times;</button>
+  <div id="sheet-body"></div>
+</div>
+
+<p id="error" hidden></p>
+
+<!-- Visible to screen readers only. A map is unusable without sight. -->
+<section id="sr-region">
+  <h1>Sound Map</h1>
+  <p id="sr-count"></p>
+  <p>Each recording below is placed on the map at the spot where it was made.</p>
+  <ul id="sr-list"></ul>
+  <p><a href="about.html">About this project</a></p>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="map.js"></script>
+</body>
+</html>
