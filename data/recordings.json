@@ -1,67 +1,11 @@
 [
   {
-    "id": "fine-creek-powhatan-va",
-    "title": "Fine Creek, Powhatan, VA",
-    "lat": 37.600045,
-    "lng": -77.819155,
-    "audio": "audio/Fine Creek, Powhatan, VA.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "sidi-bou-said",
-    "title": "Sidi Bou Said",
-    "lat": 36.870873,
-    "lng": 10.350092,
-    "audio": "audio/Sidi Bou Said.m4a",
-    "note": "A little party is happening outside a cafe.",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "sea-organ-zadar",
-    "title": "Sea Organ, Zadar",
-    "lat": 44.117042,
-    "lng": 15.219999,
-    "audio": "audio/Sea Organ Zadar.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "in-the-restaurant-courtyard-zadar",
-    "title": "In the restaurant courtyard, Zadar",
-    "lat": 44.115931,
-    "lng": 15.225742,
-    "audio": "audio/In the restaurant courtyard, Zadar.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "on-the-bus-back-from-olgii",
-    "title": "On the 35-hour bus from Olgii to Ulaanbaatar",
-    "lat": 48.664892,
-    "lng": 89.968414,
-    "audio": "audio/On the bus back from Olgii.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "market-tunis",
-    "title": "Market, Tunis",
-    "lat": 36.798977,
-    "lng": 10.175829,
-    "audio": "audio/Market Tunis.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "baby-moorhens-hampstead",
-    "title": "Baby moorhens, Hampstead",
-    "lat": 51.558638,
-    "lng": -0.165696,
-    "audio": "audio/Baby moorhens  Hampstead.m4a",
-    "coordinateSource": "manual"
-  },
-  {
     "id": "cairo-hotel-call-to-prayer",
     "title": "Cairo hotel - call to prayer",
     "lat": 30.062993,
     "lng": 31.219634,
     "audio": "audio/Cairo hotel - call to prayer.m4a",
+    "date": "2023-12-06",
     "coordinateSource": "geocoded"
   },
   {
@@ -70,98 +14,7 @@
     "lat": 36.79798,
     "lng": 10.171194,
     "audio": "audio/Call to prayer Tunis.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "evensong-hampstead-robin",
-    "title": "Evening birdsong (Hampstead, Robin?)",
-    "lat": 51.560212,
-    "lng": -0.167155,
-    "audio": "audio/Evensong (Hampstead, Robin).m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "in-the-feltmobile-mk-3",
-    "title": "In the FeltMobile Mk 3",
-    "lat": 49.622221,
-    "lng": 90.182072,
-    "audio": "audio/In the Feltmobile Mk 3.m4a",
-    "note": "Riding a van on the steppe",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "kundiz-s-house-kazakh-tv",
-    "title": "Home life in Olgii - Kazakh TV",
-    "lat": 48.968159,
-    "lng": 89.962103,
-    "audio": "audio/Kundiz’s house - Kazakh TV.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "basilica-di-santo-stefano",
-    "title": "Basilica Di Santo Stefano",
-    "lat": 44.492029,
-    "lng": 11.348716,
-    "audio": "audio/Basilica Di Santo Stefano.m4a",
-    "date": "2016-12-26",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "under-the-parakeet-tree-hh",
-    "title": "Under the parakeet tree",
-    "lat": 51.558268,
-    "lng": -0.167091,
-    "audio": "audio/Under the parakeet tree (HH).m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "teotihuacan-toilet",
-    "title": "Teotihuacan toilet",
-    "lat": 19.693455,
-    "lng": -98.826571,
-    "audio": "audio/Teotihuacan toilet.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "teotihuadan",
-    "title": "Teotihuacan",
-    "lat": 19.692367,
-    "lng": -98.843607,
-    "audio": "audio/Teotihuadan.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "calle-de-la-constituci-n-2",
-    "title": "Oaxacan residential suburbs",
-    "lat": 17.065035,
-    "lng": -96.719272,
-    "audio": "audio/Taxi to Minerva’s house - Oaxaca suburbs.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "calle-de-la-constituci-n-3",
-    "title": "Taxi to our cooking teacher's class",
-    "lat": 17.064881,
-    "lng": -96.718144,
-    "audio": "audio/Taxi to Minerva’s.m4a",
-    "note": "A drive through Oaxacan residential suburbs",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "calle-de-la-constituci-n-4",
-    "title": "Sierra Norte de Oaxaca",
-    "lat": 17.145136,
-    "lng": -96.415415,
-    "audio": "audio/Sierra Nortes.m4a",
-    "note": "In the forest near Llano Grande",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "street-seller-announcement-from-truck-early-morning-on-good-",
-    "title": "Street seller announcement from truck - early morning on good Friday",
-    "lat": 19.433197,
-    "lng": -99.138436,
-    "audio": "audio/Street seller announcement from truck - early morning on good Friday.m4a",
+    "date": "2023-05-06",
     "coordinateSource": "manual"
   },
   {
@@ -170,6 +23,7 @@
     "lat": 17.065625,
     "lng": -96.723,
     "audio": "audio/Calle de la Constitución - Santo Domingo wedding.m4a",
+    "date": "2022-04-08",
     "coordinateSource": "geocoded"
   },
   {
@@ -178,6 +32,7 @@
     "lat": 19.440644,
     "lng": -99.13908,
     "audio": "audio/Calle San Camilito 2.m4a",
+    "date": "2022-04-16",
     "coordinateSource": "manual"
   },
   {
@@ -186,6 +41,7 @@
     "lat": 19.440578,
     "lng": -99.139123,
     "audio": "audio/Calle San Camilito.m4a",
+    "date": "2022-04-16",
     "coordinateSource": "manual"
   },
   {
@@ -194,22 +50,198 @@
     "lat": 19.433696,
     "lng": -99.138257,
     "audio": "audio/CDMX from flat window.m4a",
+    "date": "2022-04-14",
     "coordinateSource": "manual"
   },
   {
-    "id": "puerto-escondido-ambiance",
-    "title": "Puerto Escondido ambiance at Playa Zicatela",
-    "lat": 15.838433,
-    "lng": -97.047215,
-    "audio": "audio/Puerto Escondido ambiance.m4a",
+    "id": "chanting-outside-shinjuku-hotel",
+    "title": "Chanting outside Shinjuku hotel",
+    "lat": 35.688211,
+    "lng": 139.704366,
+    "audio": "audio/Chanting outside Shinjuku hotel.m4a",
+    "date": "2024-04-06",
     "coordinateSource": "manual"
   },
   {
-    "id": "on-the-coach-to-puerto-esc",
-    "title": "On the coach to Puerto Escondido",
-    "lat": 16.11979,
-    "lng": -96.87079,
-    "audio": "audio/On the coach to puerto esc.m4a",
+    "id": "coach-2",
+    "title": "The coach to Puerto Escondido",
+    "lat": 16.06396,
+    "lng": -96.865726,
+    "audio": "audio/Coach 2.m4a",
+    "date": "2022-04-12",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "eurostar",
+    "title": "On the Eurostar",
+    "lat": 51.075612,
+    "lng": 1.389856,
+    "audio": "audio/Eurostar.m4a",
+    "date": "2016-10-13",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "evensong-hampstead-robin",
+    "title": "Evening birdsong (Hampstead, Robin?)",
+    "lat": 51.560212,
+    "lng": -0.167155,
+    "audio": "audio/Evensong (Hampstead, Robin).m4a",
+    "date": "2023-03-22",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "fine-creek-powhatan-va",
+    "title": "Fine Creek, Powhatan, VA",
+    "lat": 37.600045,
+    "lng": -77.819155,
+    "audio": "audio/Fine Creek, Powhatan, VA.m4a",
+    "date": "2022-11-01",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "general-teoti",
+    "title": "The archaeological site of Teotihuacan",
+    "lat": 19.686799,
+    "lng": -98.845625,
+    "audio": "audio/General teoti.m4a",
+    "date": "2022-04-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "geyser-next-to-snow-monkey-park",
+    "title": "Geyser next to snow monkey park, Jigokudani",
+    "lat": 36.732444,
+    "lng": 138.461332,
+    "audio": "audio/Geyser next to snow monkey park.m4a",
+    "date": "2024-03-28",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "golden-tulip-flamenco",
+    "title": "Golden Tulip Flamenco Hotel",
+    "lat": 30.065882,
+    "lng": 31.21599,
+    "audio": "audio/Golden Tulip Flamenco.m4a",
+    "date": "2023-12-06",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "hampstead-heath",
+    "title": "Hampstead Heath",
+    "lat": 51.55957,
+    "lng": -0.166554,
+    "audio": "audio/Hampstead Heath.m4a",
+    "date": "2022-03-12",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "in-the-feltmobile-mk-3",
+    "title": "In the FeltMobile Mk 3",
+    "lat": 49.622221,
+    "lng": 90.182072,
+    "audio": "audio/In the Feltmobile Mk 3.m4a",
+    "date": "2022-08-01",
+    "note": "Riding a van on the steppe",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "in-the-restaurant-courtyard-zadar",
+    "title": "In the restaurant courtyard, Zadar",
+    "lat": 44.115931,
+    "lng": 15.225742,
+    "audio": "audio/In the restaurant courtyard, Zadar.m4a",
+    "date": "2023-08-25",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "kundiz-s-house-kazakh-tv",
+    "title": "Home life in Olgii - Kazakh TV",
+    "lat": 48.968159,
+    "lng": 89.962103,
+    "audio": "audio/Kundiz’s house - Kazakh TV.m4a",
+    "date": "2022-08-01",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "london-tube-1",
+    "title": "London Tube",
+    "lat": 51.508163,
+    "lng": -0.121147,
+    "audio": "audio/London Tube 1.m4a",
+    "date": "2016-10-08",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "los-5-hermanos-puerto-escondido",
+    "title": "Los 5 Hermanos, Puerto Escondido",
+    "lat": 15.859356,
+    "lng": -97.060508,
+    "audio": "audio/Los 5 hermanos Puerto Escondido.m4a",
+    "date": "2022-04-13",
+    "note": "Lunch at a small fish shack on the beach",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "lucha-libre-entering-the-coliseo",
+    "title": "Lucha Libre - entering the Coliseo",
+    "lat": 19.43925,
+    "lng": -99.134705,
+    "audio": "audio/Lucha Libre - entering the Coliseo.m4a",
+    "date": "2022-04-17",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "lucha-libre-2",
+    "title": "Lucha Libre match",
+    "lat": 19.43942,
+    "lng": -99.134697,
+    "audio": "audio/Lucha Libre 2.m4a",
+    "date": "2022-04-17",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "market-tunis",
+    "title": "Market, Tunis",
+    "lat": 36.798977,
+    "lng": 10.175829,
+    "audio": "audio/Market Tunis.m4a",
+    "date": "2023-05-06",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "monte-alban-cicadas",
+    "title": "The ciccadas of Monte Alban",
+    "lat": 17.046849,
+    "lng": -96.7651,
+    "audio": "audio/Monte Alban cicadas.m4a",
+    "date": "2022-04-07",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "monte-alban-ciccadas",
+    "title": "The ciccadas of Monte Alban, part 2",
+    "lat": 17.046384,
+    "lng": -96.765164,
+    "audio": "audio/Monte Alban ciccadas.m4a",
+    "date": "2022-04-07",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "nagano-bus-old-voice",
+    "title": "On the bus in Nagano - announcement voices",
+    "lat": 36.656163,
+    "lng": 138.186368,
+    "audio": "audio/Nagano bus old voice.m4a",
+    "date": "2024-03-28",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "nagano-bus",
+    "title": "On the bus in Nagano",
+    "lat": 36.656481,
+    "lng": 138.182473,
+    "audio": "audio/Nagano bus.m4a",
+    "date": "2024-03-28",
     "coordinateSource": "manual"
   },
   {
@@ -240,54 +272,31 @@
     "coordinateSource": "manual"
   },
   {
-    "id": "monte-alban-cicadas",
-    "title": "The ciccadas of Monte Alban",
-    "lat": 17.046849,
-    "lng": -96.7651,
-    "audio": "audio/Monte Alban cicadas.m4a",
+    "id": "oaxaca-zocolo-church-interior",
+    "title": "Inside the Catedral de Oaxaca",
+    "lat": 17.061495,
+    "lng": -96.725089,
+    "audio": "audio/Oaxaca Zocolo church interior.m4a",
+    "date": "2022-04-06",
     "coordinateSource": "manual"
   },
   {
-    "id": "monte-alban-ciccadas",
-    "title": "The ciccadas of Monte Alban, part 2",
-    "lat": 17.046384,
-    "lng": -96.765164,
-    "audio": "audio/Monte Alban ciccadas.m4a",
+    "id": "on-the-bus-back-from-olgii",
+    "title": "On the 35-hour bus from Olgii to Ulaanbaatar",
+    "lat": 48.664892,
+    "lng": 89.968414,
+    "audio": "audio/On the bus back from Olgii.m4a",
+    "date": "2022-08-05",
     "coordinateSource": "manual"
   },
   {
-    "id": "los-5-hermanos-puerto-escondido",
-    "title": "Los 5 Hermanos, Puerto Escondido",
-    "lat": 15.859356,
-    "lng": -97.060508,
-    "audio": "audio/Los 5 hermanos Puerto Escondido.m4a",
-    "note": "Lunch at a small fish shack on the beach",
+    "id": "on-the-coach-to-puerto-esc",
+    "title": "On the coach to Puerto Escondido",
+    "lat": 16.11979,
+    "lng": -96.87079,
+    "audio": "audio/On the coach to puerto esc.m4a",
+    "date": "2022-04-12",
     "coordinateSource": "manual"
-  },
-  {
-    "id": "lucha-libre-entering-the-coliseo",
-    "title": "Lucha Libre - entering the Coliseo",
-    "lat": 19.43925,
-    "lng": -99.134705,
-    "audio": "audio/Lucha Libre - entering the Coliseo.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "lucha-libre-2",
-    "title": "Lucha Libre match",
-    "lat": 19.43942,
-    "lng": -99.134697,
-    "audio": "audio/Lucha Libre 2.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "london-tube-1",
-    "title": "London Tube",
-    "lat": 51.508163,
-    "lng": -0.121147,
-    "audio": "audio/London Tube 1.m4a",
-    "date": "2016-10-08",
-    "coordinateSource": "geocoded"
   },
   {
     "id": "orgue-2",
@@ -309,76 +318,114 @@
     "coordinateSource": "manual"
   },
   {
-    "id": "parque-de-mexico",
-    "title": "Parque Mexico",
-    "lat": 19.412356,
-    "lng": -99.169221,
-    "audio": "audio/Parque de Mexico.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
-    "id": "hampstead-heath",
-    "title": "Hampstead Heath",
-    "lat": 51.55957,
-    "lng": -0.166554,
-    "audio": "audio/Hampstead Heath.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "general-teoti",
-    "title": "The archaeological site of Teotihuacan",
-    "lat": 19.686799,
-    "lng": -98.845625,
-    "audio": "audio/General teoti.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "eurostar",
-    "title": "On the Eurostar",
-    "lat": 51.075612,
-    "lng": 1.389856,
-    "audio": "audio/Eurostar.m4a",
-    "date": "2016-10-13",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "coach-2",
-    "title": "The coach to Puerto Escondido",
-    "lat": 16.06396,
-    "lng": -96.865726,
-    "audio": "audio/Coach 2.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "oaxaca-zocolo-church-interior",
-    "title": "Inside the Catedral de Oaxaca",
-    "lat": 17.061495,
-    "lng": -96.725089,
-    "audio": "audio/Oaxaca Zocolo church interior.m4a",
-    "coordinateSource": "manual"
-  },
-  {
-    "id": "golden-tulip-flamenco",
-    "title": "Golden Tulip Flamenco Hotel",
-    "lat": 30.065882,
-    "lng": 31.21599,
-    "audio": "audio/Golden Tulip Flamenco.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
     "id": "out-and-about-on-the-streets-of-cairo-at-midnight",
     "title": "Out and about on the streets of Cairo at midnight",
     "lat": 30.057431,
     "lng": 31.225505,
     "audio": "audio/Out and about on the streets of Cairo at midnight.m4a",
+    "date": "2023-12-07",
     "coordinateSource": "manual"
   },
   {
-    "id": "chanting-outside-shinjuku-hotel",
-    "title": "Chanting outside Shinjuku hotel",
-    "lat": 35.688211,
-    "lng": 139.704366,
-    "audio": "audio/Chanting outside Shinjuku hotel.m4a",
+    "id": "parque-de-mexico",
+    "title": "Parque Mexico",
+    "lat": 19.412356,
+    "lng": -99.169221,
+    "audio": "audio/Parque de Mexico.m4a",
+    "date": "2022-04-16",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "puerto-escondido-ambiance",
+    "title": "Puerto Escondido ambiance at Playa Zicatela",
+    "lat": 15.838433,
+    "lng": -97.047215,
+    "audio": "audio/Puerto Escondido ambiance.m4a",
+    "date": "2022-04-13",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "sea-organ-zadar",
+    "title": "Sea Organ, Zadar",
+    "lat": 44.117042,
+    "lng": 15.219999,
+    "audio": "audio/Sea Organ Zadar.m4a",
+    "date": "2023-08-27",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "sidi-bou-said",
+    "title": "Sidi Bou Said",
+    "lat": 36.870873,
+    "lng": 10.350092,
+    "audio": "audio/Sidi Bou Said.m4a",
+    "date": "2023-05-07",
+    "note": "A little party is happening outside a cafe.",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "calle-de-la-constituci-n-4",
+    "title": "Sierra Norte de Oaxaca",
+    "lat": 17.145136,
+    "lng": -96.415415,
+    "audio": "audio/Sierra Nortes.m4a",
+    "date": "2022-04-10",
+    "note": "In the forest near Llano Grande",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "street-seller-announcement-from-truck-early-morning-on-good-",
+    "title": "Street seller announcement from truck - early morning on good Friday",
+    "lat": 19.433197,
+    "lng": -99.138436,
+    "audio": "audio/Street seller announcement from truck - early morning on good Friday.m4a",
+    "date": "2022-04-15",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "calle-de-la-constituci-n-2",
+    "title": "Oaxacan residential suburbs",
+    "lat": 17.065035,
+    "lng": -96.719272,
+    "audio": "audio/Taxi to Minerva’s house - Oaxaca suburbs.m4a",
+    "date": "2022-04-09",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "calle-de-la-constituci-n-3",
+    "title": "Taxi to our cooking teacher's class",
+    "lat": 17.064881,
+    "lng": -96.718144,
+    "audio": "audio/Taxi to Minerva’s.m4a",
+    "date": "2022-04-09",
+    "note": "A drive through Oaxacan residential suburbs",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "teotihuacan-toilet",
+    "title": "Teotihuacan toilet",
+    "lat": 19.693455,
+    "lng": -98.826571,
+    "audio": "audio/Teotihuacan toilet.m4a",
+    "date": "2022-04-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "teotihuadan",
+    "title": "Teotihuacan",
+    "lat": 19.692367,
+    "lng": -98.843607,
+    "audio": "audio/Teotihuadan.m4a",
+    "date": "2022-04-16",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "under-the-parakeet-tree-hh",
+    "title": "Under the parakeet tree",
+    "lat": 51.558268,
+    "lng": -0.167091,
+    "audio": "audio/Under the parakeet tree (HH).m4a",
+    "date": "2022-04-03",
     "coordinateSource": "manual"
   },
   {
@@ -387,6 +434,7 @@
     "lat": 36.661629,
     "lng": 138.18802,
     "audio": "audio/Zenkoji birds.m4a",
+    "date": "2024-03-28",
     "coordinateSource": "manual"
   },
   {
@@ -395,30 +443,508 @@
     "lat": 36.661423,
     "lng": 138.187658,
     "audio": "audio/Zenkoji temple Nagano - wind in charms.m4a",
+    "date": "2024-03-28",
     "coordinateSource": "geocoded"
   },
   {
-    "id": "nagano-bus-old-voice",
-    "title": "On the bus in Nagano - announcement voices",
-    "lat": 36.656163,
-    "lng": 138.186368,
-    "audio": "audio/Nagano bus old voice.m4a",
+    "id": "baby-moorhens-hampstead",
+    "title": "Baby moorhens, Hampstead",
+    "lat": 51.558638,
+    "lng": -0.165696,
+    "audio": "audio/Baby moorhens  Hampstead.m4a",
+    "date": "2022-06-09",
     "coordinateSource": "manual"
   },
   {
-    "id": "nagano-bus",
-    "title": "On the bus in Nagano",
-    "lat": 36.656481,
-    "lng": 138.182473,
-    "audio": "audio/Nagano bus.m4a",
+    "id": "basilica-di-santo-stefano",
+    "title": "Basilica Di Santo Stefano",
+    "lat": 44.492029,
+    "lng": 11.348716,
+    "audio": "audio/Basilica Di Santo Stefano.m4a",
+    "date": "2016-12-26",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "petra-bedouin-music-2011",
+    "title": "Petra, Bedouin music at night, 2011",
+    "lat": 30.323915,
+    "lng": 35.452881,
+    "audio": "audio/Petra Bedouin music 2011.m4a",
+    "date": "2017-07-21",
     "coordinateSource": "manual"
   },
   {
-    "id": "geyser-next-to-snow-monkey-park",
-    "title": "Geyser next to snow monkey park, Jigokudani",
-    "lat": 36.732444,
-    "lng": 138.461332,
-    "audio": "audio/Geyser next to snow monkey park.m4a",
+    "id": "shabbat-at-the-wall-jerusalem-2012",
+    "title": "Shabbat at the Western Wall, Jerusalem, 2012",
+    "lat": 31.776665,
+    "lng": 35.234141,
+    "audio": "audio/Shabbat at the Wall Jerusalem 2012.m4a",
+    "date": "2017-07-21",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "1-berlin-metro-on-the-way-in-to-meet-c-cile-with-jan-and-max",
+    "title": "Berlin metro",
+    "lat": 52.511882,
+    "lng": 13.32221,
+    "audio": "audio/1 Berlin metro on the way in to meet Cécile with jan and max, 23-04-15.m4a",
+    "date": "2015-04-23",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "2-accordion-player-on-bridge-in-museum-island-berlin-24-04-1",
+    "title": "Accordion player on the bridge to Museum Island, Berlin",
+    "lat": 52.52034,
+    "lng": 13.399812,
+    "audio": "audio/2 Accordion player on bridge in museum island, Berlin, 24-04-15.m4a",
+    "date": "2015-04-24",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "3-street-musicians-on-riverbank-in-berlin-lunch-break-from-m",
+    "title": "Street musicians on the riverbank, Berlin",
+    "lat": 52.51929,
+    "lng": 13.402419,
+    "audio": "audio/3 Street musicians on riverbank in Berlin, lunch break from museums, 24-04-15.m4a",
+    "date": "2015-04-24",
+    "note": "On a lunch break from museum visits",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "4-street-concert-by-band-on-alexandraplatz-berlin-25-04-15-u",
+    "title": "Under a bridge on Alexanderplatz, Berlin",
+    "lat": 52.521718,
+    "lng": 13.413953,
+    "audio": "audio/4 Street concert by band on alexandraplatz, Berlin, 25-04-15 under a bridge.m4a",
+    "date": "2015-04-25",
+    "note": "Street concert from a Berlin band",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "fuggerstra-e-11",
+    "title": "Self-cleaning public toilet, Fuggerstraße 11",
+    "lat": 52.498847,
+    "lng": 13.346253,
+    "audio": "audio/5 Self-cleaning public toilet, Fuggerstraße 11, 11-09-2021.m4a",
+    "date": "2021-09-11",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "28-torrential-rain-in-beijing-meeting-theo",
+    "title": "Torrential rain in Beijing - Meeting friends",
+    "lat": 39.897523,
+    "lng": 116.391563,
+    "audio": "audio/28 - Torrential rain in Beijing - meeting Theo.m4a",
+    "date": "2013-08-11",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "29-beyond-the-wall-crossing-into-the-unrestored-part",
+    "title": "Beyond the Wall - crossing into the unrestored part",
+    "lat": 40.441063,
+    "lng": 116.558847,
+    "audio": "audio/29 - Beyond the Wall - crossing into the unrestored part.m4a",
+    "date": "2013-08-12",
+    "note": "Crossing into the unrestored part of the Great Wall at Mutianyu",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "new-old-men-s-choir",
+    "title": "Old men's choir, Beijing",
+    "lat": 39.985572,
+    "lng": 116.255736,
+    "audio": "audio/NEW old men's choir.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "01-shanghai-morning-taxi",
+    "title": "Shanghai morning taxi",
+    "lat": 31.209394,
+    "lng": 121.450654,
+    "audio": "audio/01 - Shanghai morning taxi.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "02-outside-shanghai-hongqiao-railway-station",
+    "title": "Outside Shanghai HongQiao Railway Station",
+    "lat": 31.189531,
+    "lng": 121.318996,
+    "audio": "audio/02 - Outside Shanghai HongQiao Railway Station.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "03-queuing-in-the-station-1-security-check",
+    "title": "Queuing in the station",
+    "lat": 31.191713,
+    "lng": 121.318781,
+    "audio": "audio/03 - Queuing in the station 1 - security check.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "04-queuing-inside-station-2-waiting-for-check-in",
+    "title": "Queuing inside station 2 - waiting for check-in",
+    "lat": 31.192778,
+    "lng": 121.31876,
+    "audio": "audio/04 - Queuing inside station 2 - waiting for check-in.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "05-check-in",
+    "title": "Railway station Check-in",
+    "lat": 31.19599,
+    "lng": 121.316271,
+    "audio": "audio/05 - Check in.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "06-inside-the-g118-to-beijing",
+    "title": "Inside the G118 train to Beijing",
+    "lat": 31.196136,
+    "lng": 121.317258,
+    "audio": "audio/06 - Inside the G118 to Beijing.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "07-on-the-train",
+    "title": "On the Shanghai to Beijing train",
+    "lat": 31.532848,
+    "lng": 121.280823,
+    "audio": "audio/07 - On the train.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "08-on-the-train-2-journey-getting-long",
+    "title": "On the Shanghai-Beijing train part 2 - Journey getting long",
+    "lat": 31.543267,
+    "lng": 121.279449,
+    "audio": "audio/08 - On the train 2 - Journey getting long.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "09-the-commercial-streets-of-beijing-dashilar",
+    "title": "The commercial streets of Beijing (Dashilan)",
+    "lat": 39.89546,
+    "lng": 116.396145,
+    "audio": "audio/09 - The commercial streets of Beijing (Dashilar).m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "10-window-shopping-in-beijing-da-zha-lan",
+    "title": "Window-shopping in Beijing (Da Zha Lan)",
+    "lat": 39.894909,
+    "lng": 116.39446,
+    "audio": "audio/10 - Window-shopping in Beijing (Da Zha Lan).m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "11-at-the-roast-duck-restaurant",
+    "title": "At the roast duck restaurant",
+    "lat": 39.895119,
+    "lng": 116.392282,
+    "audio": "audio/11 - At the roast duck restaurant.m4a",
+    "date": "2013-07-29",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "12-street-musician",
+    "title": "Street musician",
+    "lat": 39.898677,
+    "lng": 116.389761,
+    "audio": "audio/12 - Street musician.m4a",
+    "date": "2013-07-30",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "13-the-forbidden-city-east-gate-park",
+    "title": "The Forbidden City East Gate Park",
+    "lat": 39.911292,
+    "lng": 116.382369,
+    "audio": "audio/13 - The Forbidden City East Gate Park.m4a",
+    "date": "2013-07-30",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "14-tiananmen-square",
+    "title": "Tiananmen Square",
+    "lat": 39.902691,
+    "lng": 116.391445,
+    "audio": "audio/14 - Tiananmen square.m4a",
+    "date": "2013-07-31",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "15-beijing-tube",
+    "title": "Beijing metro",
+    "lat": 39.898288,
+    "lng": 116.392942,
+    "audio": "audio/15 - Beijing tube.m4a",
+    "date": "2013-07-31",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "16-beijing-tube-2",
+    "title": "On the Beijing metro",
+    "lat": 39.882374,
+    "lng": 116.414652,
+    "audio": "audio/16 - Beijing tube 2.m4a",
+    "date": "2013-08-01",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "17-temple-of-heaven-park",
+    "title": "Temple of Heaven Park",
+    "lat": 39.882571,
+    "lng": 116.412635,
+    "audio": "audio/17 - Temple of Heaven Park.m4a",
+    "date": "2013-08-01",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "18-old-men-s-choir-at-the-temple-of-heaven-park",
+    "title": "Old men's choir at the Temple of Heaven park",
+    "lat": 39.881815,
+    "lng": 116.411262,
+    "audio": "audio/18 - Old men's choir at the Temple of Heaven park.m4a",
+    "date": "2013-08-01",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "19-blind-girl-singing-on-tube",
+    "title": "Blind girl singing on the metro, Beijing",
+    "lat": 39.880646,
+    "lng": 116.392465,
+    "audio": "audio/19 - Blind girl singing on tube.m4a",
+    "date": "2013-08-02",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "20-beijing-train-station",
+    "title": "Beijing train station",
+    "lat": 39.893541,
+    "lng": 116.315106,
+    "audio": "audio/20 - Beijing train station.m4a",
+    "date": "2013-08-02",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "21-pingyao-streets-and-ocarina-store",
+    "title": "Pingyao streets and ocarina store",
+    "lat": 37.204457,
+    "lng": 112.175453,
+    "audio": "audio/21- Pingyao streets and ocarina store.m4a",
+    "date": "2013-08-03",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "22-pingyao-shopping-ocarina-music",
+    "title": "Pingyao shopping (ocarina music)",
+    "lat": 37.204722,
+    "lng": 112.176182,
+    "audio": "audio/22 - Pingyao shopping (ocarina music).m4a",
+    "date": "2013-08-03",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "23-pingyao-music-live-demo-from-the-drums-shop",
+    "title": "Pingyao music (live demo from the drums shop)",
+    "lat": 37.204867,
+    "lng": 112.177427,
+    "audio": "audio/23 - Pingyao music (live demo from the drums shop).m4a",
+    "date": "2013-08-03",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "24-pingyao-sakura-cafe-lunch",
+    "title": "Pingyao (Sakura Cafe lunch)",
+    "lat": 37.205004,
+    "lng": 112.178414,
+    "audio": "audio/24 - Pingyao (sakura cafe lunch).m4a",
+    "date": "2013-08-03",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "25-pingyao-hostel-rehearsals",
+    "title": "Pingyao hostel rehearsals",
+    "lat": 37.203783,
+    "lng": 112.176697,
+    "audio": "audio/25 - Pingyao hostel rehearsals.m4a",
+    "date": "2013-08-03",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "26-pingyao-hostel-rehearsals-2",
+    "title": "Pingyao hostel rehearsals 2",
+    "lat": 37.203535,
+    "lng": 112.176708,
+    "audio": "audio/26 - Pingyao hostel rehearsals 2.m4a",
+    "date": "2013-08-03",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "27-oh-so-70s-terracotta-army-video",
+    "title": "Terracotta Warriors Visitor Centre",
+    "lat": 34.384577,
+    "lng": 109.280466,
+    "audio": "audio/27 - Oh so 70s Terracotta Army video.m4a",
+    "date": "2013-08-06",
+    "note": "What you're hearing is the audio to an oh-so-70s Terracotta Army introduction video",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "choir-in-st-basil-s",
+    "title": "Choir in St Basil's Cathedral, Moscow",
+    "lat": 55.752474,
+    "lng": 37.623162,
+    "audio": "audio/Choir in St Basil's.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "raining-in-tuva-under-the-tarp",
+    "title": "Raining in Tuva - under the tarp",
+    "lat": 52.059707,
+    "lng": 93.653619,
+    "audio": "audio/Raining in Tuva - under the tarp.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "throat-singer-2",
+    "title": "Tuvan Throat Singer",
+    "lat": 52.060116,
+    "lng": 93.654821,
+    "audio": "audio/Throat singer 2.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "throat-singers",
+    "title": "Tuvan Throat Singers",
+    "lat": 52.05918,
+    "lng": 93.655958,
+    "audio": "audio/Throat singers.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "tuvan-music",
+    "title": "Tuvan music",
+    "lat": 52.060762,
+    "lng": 93.653169,
+    "audio": "audio/Tuvan music.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "tuvan-song-2",
+    "title": "Tuvan song 2",
+    "lat": 52.06034,
+    "lng": 93.651838,
+    "audio": "audio/Tuvan song 2.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "tuvan-song",
+    "title": "Tuvan song",
+    "lat": 52.061369,
+    "lng": 93.651624,
+    "audio": "audio/Tuvan song.m4a",
+    "date": "2015-08-16",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "1-moscow-caf-pushkin-string-quartet-25-01-15",
+    "title": "Moscow Café Pushkin string quartet",
+    "lat": 55.763694,
+    "lng": 37.604978,
+    "audio": "audio/1 Moscow Café Pushkin string quartet 25-01-15.m4a",
+    "date": "2015-01-25",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "2-inside-gum-moscow-27-01-15",
+    "title": "Inside GUM Department Store, Moscow",
+    "lat": 55.754703,
+    "lng": 37.621438,
+    "audio": "audio/2 Inside gum Moscow 27-01-15.m4a",
+    "date": "2015-01-27",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "3-gum-moscow-27-01-15-having-tea-and-warming-up-after-visiti",
+    "title": "GUM Moscow",
+    "lat": 55.754892,
+    "lng": 37.620846,
+    "audio": "audio/3 GUM Moscow 27-01-15 having tea and warming up after visiting st Basil's on the -11 degree day.m4a",
+    "date": "2015-01-27",
+    "note": "Having tea and warming up after visiting st Basil's on a -11 degree winter day",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "reindeer-hill",
+    "title": "Reindeer Hill, Cairngorms",
+    "lat": 57.158478,
+    "lng": -3.676214,
+    "audio": "audio/Reindeer Hill.m4a",
+    "date": "2020-10-20",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "reindeer-hills",
+    "title": "Reindeer Hills, Cairngorms",
+    "lat": 57.158449,
+    "lng": -3.675184,
+    "audio": "audio/Reindeer Hills.m4a",
+    "date": "2020-10-20",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "reindeer-stream-highlands",
+    "title": "Reindeer Stream, Highlands",
+    "lat": 57.158589,
+    "lng": -3.68012,
+    "audio": "audio/Reindeer Stream Highlands.m4a",
+    "date": "2020-10-20",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "reindeer-clicking",
+    "title": "Reindeer herd clicking their feet, Cairngorms",
+    "lat": 57.158501,
+    "lng": -3.6788,
+    "audio": "audio/Reindeer Clicking.m4a",
+    "date": "2020-10-20",
+    "note": "This is apparently how they keep track of each other.",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "southend-commercial-street",
+    "title": "Commercial street in Southend-on-Sea",
+    "lat": 51.542599,
+    "lng": 0.709777,
+    "audio": "audio/Southend Commercial Street.m4a",
+    "date": "2018-01-17",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "southend-seagulls",
+    "title": "Southend Seagulls",
+    "lat": 51.533629,
+    "lng": 0.715871,
+    "audio": "audio/Southend Seagulls.m4a",
+    "date": "2018-01-17",
     "coordinateSource": "manual"
   }
 ]
