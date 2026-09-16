@@ -2,11 +2,171 @@
   {
     "id": "fine-creek-powhatan-va",
     "title": "Fine Creek, Powhatan, VA",
-    "lat": 37.5877,
-    "lng": -77.8447,
-    "audio": "audio/Fine_Creek__Powhatan__VA.m4a",
-    "date": "2022-11-01",
-    "note": "Replace this file with the one you export from the placement tool.",
+    "lat": 37.600045,
+    "lng": -77.819155,
+    "audio": "audio/Fine Creek, Powhatan, VA.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "sidi-bou-said",
+    "title": "Sidi Bou Said",
+    "lat": 36.870873,
+    "lng": 10.350092,
+    "audio": "audio/Sidi Bou Said.m4a",
+    "note": "A little party is happening outside a cafe.",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "sea-organ-zadar",
+    "title": "Sea Organ, Zadar",
+    "lat": 44.117042,
+    "lng": 15.219999,
+    "audio": "audio/Sea Organ Zadar.m4a",
     "coordinateSource": "geocoded"
+  },
+  {
+    "id": "in-the-restaurant-courtyard-zadar",
+    "title": "In the restaurant courtyard, Zadar",
+    "lat": 44.115931,
+    "lng": 15.225742,
+    "audio": "audio/In the restaurant courtyard, Zadar.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "on-the-bus-back-from-olgii",
+    "title": "On the 35-hour bus from Olgii to Ulaanbaatar",
+    "lat": 48.664892,
+    "lng": 89.968414,
+    "audio": "audio/On the bus back from Olgii.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "market-tunis",
+    "title": "Market, Tunis",
+    "lat": 36.798977,
+    "lng": 10.175829,
+    "audio": "audio/Market Tunis.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "baby-moorhens-hampstead",
+    "title": "Baby moorhens, Hampstead",
+    "lat": 51.558638,
+    "lng": -0.165696,
+    "audio": "audio/Baby moorhens  Hampstead.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "cairo-hotel-call-to-prayer",
+    "title": "Cairo hotel - call to prayer",
+    "lat": 30.062993,
+    "lng": 31.219634,
+    "audio": "audio/Cairo hotel - call to prayer.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "call-to-prayer-tunis",
+    "title": "Call to prayer, Tunis",
+    "lat": 36.79798,
+    "lng": 10.171194,
+    "audio": "audio/Call to prayer Tunis.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "evensong-hampstead-robin",
+    "title": "Evening birdsong (Hampstead, Robin?)",
+    "lat": 51.560212,
+    "lng": -0.167155,
+    "audio": "audio/Evensong (Hampstead, Robin).m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "in-the-feltmobile-mk-3",
+    "title": "In the FeltMobile Mk 3",
+    "lat": 49.622221,
+    "lng": 90.182072,
+    "audio": "audio/In the Feltmobile Mk 3.m4a",
+    "note": "Riding a van on the steppe",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "kundiz-s-house-kazakh-tv",
+    "title": "Home life in Olgii - Kazakh TV",
+    "lat": 48.968159,
+    "lng": 89.962103,
+    "audio": "audio/Kundiz’s house - Kazakh TV.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "market-note-1",
+    "title": "Market note 1",
+    "lat": 37.077333,
+    "lng": 36.253727,
+    "audio": "audio/Market note 1.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "basilica-di-santo-stefano",
+    "title": "Basilica Di Santo Stefano",
+    "lat": 44.492029,
+    "lng": 11.348716,
+    "audio": "audio/Basilica Di Santo Stefano.m4a",
+    "date": "2016-12-26",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "under-the-parakeet-tree-hh",
+    "title": "Under the parakeet tree",
+    "lat": 51.558268,
+    "lng": -0.167091,
+    "audio": "audio/Under the parakeet tree (HH).m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "teotihuacan-toilet",
+    "title": "Teotihuacan toilet",
+    "lat": 19.693455,
+    "lng": -98.826571,
+    "audio": "audio/Teotihuacan toilet.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "teotihuadan",
+    "title": "Teotihuacan",
+    "lat": 19.692367,
+    "lng": -98.843607,
+    "audio": "audio/Teotihuadan.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "calle-de-la-constituci-n-2",
+    "title": "Oaxacan residential suburbs",
+    "lat": 17.065035,
+    "lng": -96.719272,
+    "audio": "audio/Taxi to Minerva’s house - Oaxaca suburbs.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "calle-de-la-constituci-n-3",
+    "title": "Taxi to our cooking teacher's class",
+    "lat": 17.064881,
+    "lng": -96.718144,
+    "audio": "audio/Taxi to Minerva’s.m4a",
+    "note": "A drive through Oaxacan residential suburbs",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "calle-de-la-constituci-n-4",
+    "title": "Calle de la Constitución 4",
+    "lat": null,
+    "lng": null,
+    "audio": "audio/Sierra Nortes.m4a"
+  },
+  {
+    "id": "street-seller-announcement-from-truck-early-morning-on-good-",
+    "title": "Street seller announcement from truck - early morning on good Friday",
+    "lat": null,
+    "lng": null,
+    "audio": "audio/Street seller announcement from truck - early morning on good Friday.m4a"
   }
 ]
