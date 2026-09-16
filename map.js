@@ -1,10 +1,4 @@
-/* ===========================================================================
-   PASTE YOUR TWO KEYS HERE. Nothing else in this file needs changing.
-   Both are meant to be public. There is no billing attached to either.
-   =========================================================================== */
-const STADIA_KEY = 'e978f8f0-6773-474d-a0c2-97be1054428b';   // from client.stadiamaps.com
-const JAWG_TOKEN = 'Yo67WMEobQW5tuw9U3Fw7sFeYvGjokLAXfWo5n02QCYpWBFwJuk2HGsYfpuuOQbF';   // from jawg.io
-/* ======================================================================== */
+/* Keys live in config.js, which is loaded first and never replaced by updates. */
 
 const OSM = '<a href="https://www.openstreetmap.org/copyright">&copy; OpenStreetMap</a>';
 const NARROW = () => window.matchMedia('(max-width: 700px)').matches;
@@ -43,8 +37,8 @@ const prettyDate = iso => {
 function bubbleHtml(rec) {
   const date = prettyDate(rec.date);
   return `<h2>${esc(rec.title)}</h2>
-    <audio controls preload="none" src="${esc(rec.audio)}"></audio>
-    ${date ? `<p class="meta">${esc(date)}</p>` : ''}
+    <audio controls controlsList="nodownload" preload="none" src="${esc(rec.audio)}"></audio>
+    ${date ? `<p class="meta">Recorded ${esc(date)}</p>` : ''}
     ${rec.note ? `<p class="meta">${esc(rec.note)}</p>` : ''}`;
 }
 
@@ -97,18 +91,27 @@ fetch('data/recordings.json')
         marker.bindTooltip(rec.title, { direction: 'top', offset: [0, -11] });
       }
 
-      marker.on('click', () => {
-        closeEverything();
-        if (NARROW()) openSheet(rec);
-        else marker.bindPopup(bubbleHtml(rec), { minWidth: 290, maxWidth: 320 }).openPopup();
+      marker.on('click', e => {
+        L.DomEvent.stopPropagation(e);
+        closeSheet();
+        if (NARROW()) {
+          map.closePopup();
+          openSheet(rec);
+        } else {
+          // openOn() closes any popup already showing, so only one is ever open.
+          L.popup({ minWidth: 290, maxWidth: 320, autoPanPadding: [24, 24] })
+            .setLatLng(marker.getLatLng())
+            .setContent(bubbleHtml(rec))
+            .openOn(map);
+        }
       });
 
       // FR-22: the same collection, reachable without seeing the map
       const li = document.createElement('li');
       li.innerHTML = `<h3>${esc(rec.title)}</h3>
-        ${rec.date ? `<p>${esc(prettyDate(rec.date))}</p>` : ''}
+        ${rec.date ? `<p>Recorded ${esc(prettyDate(rec.date))}</p>` : ''}
         ${rec.note ? `<p>${esc(rec.note)}</p>` : ''}
-        <audio controls preload="none" src="${esc(rec.audio)}"></audio>`;
+        <audio controls controlsList="nodownload" preload="none" src="${esc(rec.audio)}"></audio>`;
       list.appendChild(li);
     });
 
@@ -116,7 +119,18 @@ fetch('data/recordings.json')
       `${placed.length} field recording${placed.length === 1 ? '' : 's'}.`;
   })
   .catch(err => {
-    document.getElementById('error').textContent =
-      'The recordings could not be loaded. ' + err.message;
-    document.getElementById('error').hidden = false;
+    const box = document.getElementById('error');
+    if (location.protocol === 'file:') {
+      // Browsers refuse to let a page opened from disk read files next to it.
+      // Nothing is wrong with the site; it simply cannot be previewed this way.
+      box.innerHTML = '<strong>This page needs to be online to work.</strong><br><br>' +
+        'Your browser will not let a page opened from your computer read the recordings ' +
+        'file sitting beside it. That is a security rule, not a fault in the site. ' +
+        'Upload everything to GitHub and it will work immediately.';
+    } else {
+      box.innerHTML = '<strong>The recordings could not be loaded.</strong><br><br>' +
+        'Check that <code>data/recordings.json</code> exists and that the file is valid. ' +
+        '<br><br><small>' + String(err.message) + '</small>';
+    }
+    box.hidden = false;
   });
