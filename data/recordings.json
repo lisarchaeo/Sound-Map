@@ -98,14 +98,6 @@
     "coordinateSource": "geocoded"
   },
   {
-    "id": "market-note-1",
-    "title": "Market note 1",
-    "lat": 37.077333,
-    "lng": 36.253727,
-    "audio": "audio/Market note 1.m4a",
-    "coordinateSource": "geocoded"
-  },
-  {
     "id": "basilica-di-santo-stefano",
     "title": "Basilica Di Santo Stefano",
     "lat": 44.492029,
