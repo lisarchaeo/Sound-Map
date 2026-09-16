@@ -157,16 +157,276 @@
   },
   {
     "id": "calle-de-la-constituci-n-4",
-    "title": "Calle de la Constitución 4",
-    "lat": null,
-    "lng": null,
-    "audio": "audio/Sierra Nortes.m4a"
+    "title": "Sierra Norte de Oaxaca",
+    "lat": 17.145136,
+    "lng": -96.415415,
+    "audio": "audio/Sierra Nortes.m4a",
+    "note": "In the forest near Llano Grande",
+    "coordinateSource": "manual"
   },
   {
     "id": "street-seller-announcement-from-truck-early-morning-on-good-",
     "title": "Street seller announcement from truck - early morning on good Friday",
-    "lat": null,
-    "lng": null,
-    "audio": "audio/Street seller announcement from truck - early morning on good Friday.m4a"
+    "lat": 19.433197,
+    "lng": -99.138436,
+    "audio": "audio/Street seller announcement from truck - early morning on good Friday.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "calle-de-la-constituci-n",
+    "title": "Wedding at Santo Domingo, Oaxaca",
+    "lat": 17.065625,
+    "lng": -96.723,
+    "audio": "audio/Calle de la Constitución - Santo Domingo wedding.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "calle-san-camilito-2",
+    "title": "Mariachi hall, Plaza Garibaldi",
+    "lat": 19.440644,
+    "lng": -99.13908,
+    "audio": "audio/Calle San Camilito 2.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "calle-san-camilito",
+    "title": "The Mariachi of Plaza Garibaldi",
+    "lat": 19.440578,
+    "lng": -99.139123,
+    "audio": "audio/Calle San Camilito.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "cdmx-from-flat-window",
+    "title": "The sounds of CDMX",
+    "lat": 19.433696,
+    "lng": -99.138257,
+    "audio": "audio/CDMX from flat window.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "puerto-escondido-ambiance",
+    "title": "Puerto Escondido ambiance at Playa Zicatela",
+    "lat": 15.838433,
+    "lng": -97.047215,
+    "audio": "audio/Puerto Escondido ambiance.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "on-the-coach-to-puerto-esc",
+    "title": "On the coach to Puerto Escondido",
+    "lat": 16.11979,
+    "lng": -96.87079,
+    "audio": "audio/On the coach to puerto esc.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "nd-bubbling-candles",
+    "title": "Bubbling Candles at Notre Dame",
+    "lat": 48.85287,
+    "lng": 2.350066,
+    "audio": "audio/Nd Bubbling Candles.m4a",
+    "date": "2017-01-05",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "notre-dame-2",
+    "title": "Notre Dame de Paris",
+    "lat": 48.85287,
+    "lng": 2.350377,
+    "audio": "audio/Notre Dame 2.m4a",
+    "date": "2017-01-05",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "notre-dame",
+    "title": "Notre Dame",
+    "lat": 48.85299,
+    "lng": 2.350173,
+    "audio": "audio/Notre Dame.m4a",
+    "date": "2017-01-05",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "monte-alban-cicadas",
+    "title": "The ciccadas of Monte Alban",
+    "lat": 17.046849,
+    "lng": -96.7651,
+    "audio": "audio/Monte Alban cicadas.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "monte-alban-ciccadas",
+    "title": "The ciccadas of Monte Alban, part 2",
+    "lat": 17.046384,
+    "lng": -96.765164,
+    "audio": "audio/Monte Alban ciccadas.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "los-5-hermanos-puerto-escondido",
+    "title": "Los 5 Hermanos, Puerto Escondido",
+    "lat": 15.859356,
+    "lng": -97.060508,
+    "audio": "audio/Los 5 hermanos Puerto Escondido.m4a",
+    "note": "Lunch at a small fish shack on the beach",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "lucha-libre-entering-the-coliseo",
+    "title": "Lucha Libre - entering the Coliseo",
+    "lat": 19.43925,
+    "lng": -99.134705,
+    "audio": "audio/Lucha Libre - entering the Coliseo.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "lucha-libre-2",
+    "title": "Lucha Libre match",
+    "lat": 19.43942,
+    "lng": -99.134697,
+    "audio": "audio/Lucha Libre 2.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "london-tube-1",
+    "title": "London Tube",
+    "lat": 51.508163,
+    "lng": -0.121147,
+    "audio": "audio/London Tube 1.m4a",
+    "date": "2016-10-08",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "orgue-2",
+    "title": "Church organ, Bologna, part 2",
+    "lat": 44.493856,
+    "lng": 11.347321,
+    "audio": "audio/Orgue 2.m4a",
+    "date": "2016-12-26",
+    "note": "On Boxing Day",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "orgue-e-glise-bologne",
+    "title": "Church organ, Bologna",
+    "lat": 44.494124,
+    "lng": 11.347085,
+    "audio": "audio/Orgue Église Bologne.m4a",
+    "date": "2016-12-26",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "parque-de-mexico",
+    "title": "Parque Mexico",
+    "lat": 19.412356,
+    "lng": -99.169221,
+    "audio": "audio/Parque de Mexico.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "hampstead-heath",
+    "title": "Hampstead Heath",
+    "lat": 51.55957,
+    "lng": -0.166554,
+    "audio": "audio/Hampstead Heath.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "general-teoti",
+    "title": "The archaeological site of Teotihuacan",
+    "lat": 19.686799,
+    "lng": -98.845625,
+    "audio": "audio/General teoti.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "eurostar",
+    "title": "On the Eurostar",
+    "lat": 51.075612,
+    "lng": 1.389856,
+    "audio": "audio/Eurostar.m4a",
+    "date": "2016-10-13",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "coach-2",
+    "title": "The coach to Puerto Escondido",
+    "lat": 16.06396,
+    "lng": -96.865726,
+    "audio": "audio/Coach 2.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "oaxaca-zocolo-church-interior",
+    "title": "Inside the Catedral de Oaxaca",
+    "lat": 17.061495,
+    "lng": -96.725089,
+    "audio": "audio/Oaxaca Zocolo church interior.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "golden-tulip-flamenco",
+    "title": "Golden Tulip Flamenco Hotel",
+    "lat": 30.065882,
+    "lng": 31.21599,
+    "audio": "audio/Golden Tulip Flamenco.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "out-and-about-on-the-streets-of-cairo-at-midnight",
+    "title": "Out and about on the streets of Cairo at midnight",
+    "lat": 30.057431,
+    "lng": 31.225505,
+    "audio": "audio/Out and about on the streets of Cairo at midnight.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "chanting-outside-shinjuku-hotel",
+    "title": "Chanting outside Shinjuku hotel",
+    "lat": 35.688211,
+    "lng": 139.704366,
+    "audio": "audio/Chanting outside Shinjuku hotel.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "zenkoji-birds",
+    "title": "Zenkoji temple birds",
+    "lat": 36.661629,
+    "lng": 138.18802,
+    "audio": "audio/Zenkoji birds.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "zenkoji-temple-nagano-wind-in-charms",
+    "title": "Zenkoji temple Nagano - wind in charms",
+    "lat": 36.661423,
+    "lng": 138.187658,
+    "audio": "audio/Zenkoji temple Nagano - wind in charms.m4a",
+    "coordinateSource": "geocoded"
+  },
+  {
+    "id": "nagano-bus-old-voice",
+    "title": "On the bus in Nagano - announcement voices",
+    "lat": 36.656163,
+    "lng": 138.186368,
+    "audio": "audio/Nagano bus old voice.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "nagano-bus",
+    "title": "On the bus in Nagano",
+    "lat": 36.656481,
+    "lng": 138.182473,
+    "audio": "audio/Nagano bus.m4a",
+    "coordinateSource": "manual"
+  },
+  {
+    "id": "geyser-next-to-snow-monkey-park",
+    "title": "Geyser next to snow monkey park, Jigokudani",
+    "lat": 36.732444,
+    "lng": 138.461332,
+    "audio": "audio/Geyser next to snow monkey park.m4a",
+    "coordinateSource": "manual"
   }
 ]
